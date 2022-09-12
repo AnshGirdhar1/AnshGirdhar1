@@ -9,8 +9,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development (MERN Stack).
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 👨‍💻 All of my projects are available at *[My Portfolio](https://verdant-mandazi-a50fad.netlify.app/)*
-- 📫 How to reach me *anshgirdhar20@gmail.com*
 
 <br></br>
 
