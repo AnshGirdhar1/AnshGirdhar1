@@ -1,6 +1,9 @@
 <div align="center"><img width="50%" align="center" height="auto" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1663005181~exp=1663005781~hmac=cbce589f3f19d4ceb1989856faf71e681a6710e2d4a90eeb5036c1b4e071ea06" height="175px"/>
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ansh Girdhar</h1>
-<h3>I'm a passionate Full Stack Developer.</h3>
+<br></br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ansh 👦🏽; Full-stack%20web%20developer 👨🏻‍💻; Problem Solver;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=7358b5&vCenter=true&size=22&pause=1000"></a>
+</p>
 </div>
 <br></br>
 
