@@ -12,6 +12,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development (MERN Stack).
 - 👯 I’m looking to collaborate on *OpenSource Projects*
+- A passionate and ambitious Full Stack Developer with good knowledge of frontend technologies like ReactJS, HTML, CSS, JavaScript and backend technologies like         NodeJS, ExpressJS and MongoDB. Proficient in writing readable and maintainable code.
 <br></br>
 
 ## 🚀 Languages and Tools:
